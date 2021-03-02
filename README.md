@@ -1,6 +1,10 @@
 # efectura
 Efectura assessment project
 
+29999 number difference between consecutive TCKNs didn't make much sense to me.
+999999999 - 100000001 divided by 29999 results in a mere 30000, which is not enough to cover all Turkish citizens.
+But i have implemented a random TCKN generator according to the validation algoritm.
+
 Postgresql was used in the project as database.
 Migration files are inside.
 You can run "update-database" command on the Package Manager Console to create the database if you have postgresql server installed on your machine.
